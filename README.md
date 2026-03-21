@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,100:002244&height=190&section=header&text=NEBULA-DB-CORE🛸Data+Core&fontSize=60&fontColor=00ccff&desc=Witwizard&descSize=18&descColor=cccccc" />
+  <img src="https://img.icons8.com/ios-filled/500/000000/cloud-database.png" width="200" alt="NEBULA-DB-CORE Cloud Database Icon"/>
 </p>
+
 # NEBULA-DB-CORE
 
 Nebula DB Core is an experimental embedded database engine implemented in Python. The project explores the internal architecture of database systems including storage management, indexing structures, query planning, and execution pipelines.
