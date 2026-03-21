@@ -1,4 +1,8 @@
-# Nebula DB Core
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/postgresql.svg" width="256" height="256" alt="Nebula DB Core Logo" />
+</p>
+
+# NEBULA-DB-CORE
 
 Nebula DB Core is an experimental embedded database engine implemented in Python. The project explores the internal architecture of database systems including storage management, indexing structures, query planning, and execution pipelines.
 
