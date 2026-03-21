@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,100:002244&height=180&section=header&text=NEBULA-DB-CORE🛸Data+Core&fontSize=60&fontColor=00ccff&desc=Witwizard&descSize=18&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,100:002244&height=190&section=header&text=NEBULA-DB-CORE🛸Data+Core&fontSize=60&fontColor=00ccff&desc=Witwizard&descSize=18&descColor=cccccc" />
 </p>
 # NEBULA-DB-CORE
 
